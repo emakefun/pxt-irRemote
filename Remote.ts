@@ -149,7 +149,7 @@ namespace Remote {
      * button pushed.
      */
     //% blockId=onPressEvent_EM
-    //% block="当Eamkefun红外遥控器按键|%btn|按下" shim=IrRemote::onPressEvent_EM
+    //% block="当Emakefun红外遥控器按键|%btn|按下" shim=IrRemote::onPressEvent_EM
     export function OnPressEvent_EM(btn: EM_RemoteButton, body: () => void): void {
         return;
     }
