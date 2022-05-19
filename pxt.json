@@ -1,8 +1,7 @@
 {
-    "name": "irRmote",
-    "version": "0.0.0",
+    "name": "ir",
+    "version": "0.0.1",
     "description": "Emakefun irRmote",
-    "license": "MIT",
     "dependencies": {
         "core": "*",
         "radio": "*",
